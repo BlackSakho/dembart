@@ -11,10 +11,10 @@
   <div class="row">
 
     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-      <h3 class="resume-title">Sumary</h3>
+      <h3 class="resume-title">Resumé</h3>
 
       <div class="resume-item pb-0">
-        <h4>Brandon Johnson</h4>
+        <h4>Mademba Gueye</h4>
         <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
         <ul>
           <li>Portland par 127,Orlando, FL</li>

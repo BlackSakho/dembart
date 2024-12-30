@@ -3,7 +3,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>À propos</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <p>Polyvalent et passionné, je me définis par ma capacité à conjuguer réflexion analytique et expression artistique, toujours en quête d’excellence et d’originalité.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -15,8 +15,7 @@
           <div class="col-lg-8 content">
             <h2>Economiste &amp;Designer .</h2>
             <p class="fst-italic py-3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+                Je suis étudiant en licence 2 au département d’économie et de gestion des organisations, mais mes passions vont bien au-delà des études. J’excelle dans le graphisme et le design, où je laisse libre cours à ma créativité, en concevant des œuvres qui allient esthétique et innovation.
             </p>
             <div class="row">
               <div class="col-lg-6">
@@ -37,8 +36,7 @@
               </div>
             </div>
             <p class="py-3">
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
+                L’écriture est pour moi une seconde nature : que ce soit à travers des poèmes ou des textes, je m’efforce de capturer l’essence des émotions et de donner vie aux mots. 
             </p>
           </div>
         </div>

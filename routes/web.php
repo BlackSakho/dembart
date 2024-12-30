@@ -24,3 +24,15 @@ Route::get('/service-details', function () {
 Route::get('/portfolio-details', function () {
     return view('portfolio-details');
 });
+
+Route::get('/portfolio-details2', function () {
+    return view('portfolio-details2');
+});
+
+Route::get('/portfolio-details3', function () {
+    return view('portfolio-details3');
+});
+
+Route::get('/starter-page', function () {
+    return view('starter-page');
+});
